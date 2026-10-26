@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FLUTTER_VERSION="3.27.0"
+FLUTTER_VERSION="3.35.0"
 
 if cd flutter; then
   git fetch --tags
